@@ -9,14 +9,14 @@
 */
 
 // 1. Boolean
-// console.log(Boolean(0)) // false
-// console.log(Boolean(-10)) // true
-// console.log(Boolean([])) // true
+console.log(Boolean(0)) // false
+console.log(Boolean(-10)) // true
+console.log(Boolean([])) // true
 
 // 2. double not operator
-// console.log(!!(0)) // false
-// console.log(!!(-10)) // true
-// console.log(!!([])) // true
+console.log(!!(0)) // false
+console.log(!!(-10)) // true
+console.log(!!([])) // true
 
 // 3. conditional
 
