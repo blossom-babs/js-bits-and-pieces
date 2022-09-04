@@ -18,9 +18,9 @@ You're ready to hack (and | or contribute) ✌️
 Contributions are welcome. Also, feel free to raise and issue.
 
 <details>
-  <summary>### Nuggets #1 </summary>
+  <summary> ###Nuggets #1 </summary>
   
-  [How to check the boolean of a value]()
+  [How to check the boolean of a value](https://www.youtube.com/shorts/Z1hFlhXZvCY)
 
   ```
   Boolean, double not operator, conditional, 
