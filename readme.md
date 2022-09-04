@@ -5,34 +5,47 @@ Javascript has a lots of quirky sides. I was inspired by [wtfj](https://github.c
 ## To install this on your local machine
 
 1. You need node installed globally on your local machine
+
 ```
 $ git clone https://github.com/blossom-babs/js-nuggets
 $ cd js-nuggets
 $ npm install
 $ npm run _filename_
 ```
-If you want to contribute, before any of the steps above, you would need to __fork__ this project first.
+
+If you want to contribute, before any of the steps above, you would need to **fork** this project first.
 You're ready to hack (and | or contribute) ✌️
 
 ## 🤝 Contributing
+
 Contributions are welcome. Also, feel free to raise and issue.
 
 <details>
-  <summary> ### Nuggets #1 </summary>
+ ### <summary>Nuggets #1 </summary>
   
   [How to check the boolean of a value](https://www.youtube.com/shorts/Z1hFlhXZvCY)
 
-  ```
-  Boolean, double not operator, conditional, 
-  ```
+```
+Boolean, double not operator, conditional,
+```
+
+</details>
+
+<details>
+ ### <summary>Nuggets #2 </summary>
+  
+  [Why does an empty array evaluate to true?](https://www.youtube.com/shorts/Z1hFlhXZvCY)
 </details>
 
 ## Authors
-🌸 __Blossom__
+
+🌸 **Blossom**
+
 - Github: [@blossom-babs](https://github.com/blossom-babs/)
 - LinkedIn: [Blossom Babalola](https://www.linkedin.com/in/blossom-babalola/)
 - Youtube: [Trant](https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g)
 
 ### Show your support
+
 - Give a ⭐ if you like this project
 - [Buy me a coffee](https://www.buymeacoffee.com/blossombabs)
