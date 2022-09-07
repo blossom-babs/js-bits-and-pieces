@@ -34,15 +34,22 @@ Boolean, double not operator, conditional,
 </details>
 
 <details>
- ### <summary>BAP #2 </summary>
+ <summary>BAP #2 </summary>
   
   [Why does an empty array evaluate to true?](https://www.youtube.com/shorts/Z1hFlhXZvCY)
 </details>
 
 <details>
- ### <summary>BAP #3 </summary>
+ <summary>BAP #3 </summary>
   
   [Difference between ! and !!](https://www.youtube.com/shorts/4kAznsXNEcE)
+</details>
+
+
+<details>
+  <summary>BAP #4 </summary>
+  
+  [Optional chaining operator](https://www.youtube.com/shorts/SF2bqo4iro4)
 </details>
 
 
