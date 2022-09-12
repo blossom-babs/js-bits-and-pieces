@@ -12,7 +12,7 @@ Javascript has lots of quirky sides. I was inspired by [wtfj](https://github.com
 $ git clone https://github.com/blossom-babs/js-nuggets
 $ cd js-nuggets
 $ npm install
-$ npm run _filename_
+$ npm run __filename__
 ```
 
 If you want to contribute, before any of the steps above, you would need to **fork** this project first.
@@ -52,6 +52,17 @@ Boolean, double not operator, conditional,
   [Optional chaining operator](https://www.youtube.com/shorts/SF2bqo4iro4)
 </details>
 
+<details>
+  <summary>BAP #5 </summary>
+  
+  [Conditional statements in Map method Part 1](https://www.youtube.com/watch?v=CazO5ldWkJY&t=5s)
+</details>
+
+<details>
+  <summary>BAP #5 </summary>
+  
+  [Conditional statements in Map method Part 2](https://www.youtube.com/watch?v=_IXQx-_WhOw)
+</details>
 
 ## Authors
 
