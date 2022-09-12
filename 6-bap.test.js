@@ -22,17 +22,8 @@ const students = [
 ]
 
 students.map(item => {
-  if (item.location == "Lagos") {
+  item.hobbies.toString().includes('exercise') &&
     console.log(item)
-  }
+
 })
 
-students.map(item => {
-  item.location == "Lagos" ?
-    console.log(item) : ""
-})
-
-students.map(item => {
-  item.location == "Lagos" &&
-    console.log(item)
-})
