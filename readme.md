@@ -64,6 +64,12 @@ Boolean, double not operator, conditional,
   [Conditional statements in Map method Part 2](https://www.youtube.com/watch?v=_IXQx-_WhOw)
 </details>
 
+<details>
+  <summary>BAP #6 </summary>
+  
+  [Programming Lingo](https://youtu.be/wE17lgn6WY4)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
