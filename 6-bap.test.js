@@ -5,24 +5,24 @@ const students = [
     name: "Blossom",
     age: "16",
     location: "Lagos",
-    hobbies: ['reading, exercise']
+    hobbies: ['reading', 'exercise']
   },
   {
     name: "Liza",
     age: "18",
     location: "Paris",
-    hobbies: ['horse-racing, exercise']
+    hobbies: ['horse-racing', 'exercise']
   },
   {
     name: "Dani",
     age: "14",
     location: "Lagos",
-    hobbies: ['fishing, football']
+    hobbies: ['fishing', 'football']
   }
 ]
 
 students.map(item => {
-  item.hobbies.toString().includes('exercise') &&
+  item.hobbies.includes('exercise') &&
     console.log(item)
 
 })

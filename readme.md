@@ -70,6 +70,12 @@ Boolean, double not operator, conditional,
   [Programming Lingo](https://youtu.be/wE17lgn6WY4)
 </details>
 
+<details>
+  <summary>BAP #7 </summary>
+  
+  [Operators in Javascript](https://youtu.be/wE17lgn6WY4)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
