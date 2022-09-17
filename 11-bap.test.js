@@ -1,0 +1,1 @@
+// strict and loose equal
