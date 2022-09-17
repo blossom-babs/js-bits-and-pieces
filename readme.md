@@ -59,19 +59,19 @@ Boolean, double not operator, conditional,
 </details>
 
 <details>
-  <summary>BAP #5 </summary>
+  <summary>BAP #6 </summary>
   
   [Conditional statements in Map method Part 2](https://www.youtube.com/watch?v=_IXQx-_WhOw)
 </details>
 
 <details>
-  <summary>BAP #6 </summary>
+  <summary>BAP #7 </summary>
   
   [Programming Lingo](https://youtu.be/wE17lgn6WY4)
 </details>
 
 <details>
-  <summary>BAP #7 </summary>
+  <summary>BAP #8 </summary>
   
   [Operators in Javascript](https://youtu.be/wE17lgn6WY4)
 </details>
