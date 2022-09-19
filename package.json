@@ -196,7 +196,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "clear && node 9-bap.test.js"
+    "start": "clear && node 10-bap.test.js"
   },
   "keywords": [],
   "author": "",

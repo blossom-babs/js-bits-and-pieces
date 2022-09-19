@@ -76,6 +76,12 @@ Boolean, double not operator, conditional,
   [Operators in Javascript](https://youtu.be/wE17lgn6WY4)
 </details>
 
+<details>
+  <summary>BAP #9 </summary>
+  
+  [Console.log object](https://youtu.be/wE17lgn6WY4)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
