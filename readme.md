@@ -82,6 +82,18 @@ Boolean, double not operator, conditional,
   [Console.log object](https://youtu.be/wE17lgn6WY4)
 </details>
 
+<details>
+  <summary>BAP #10 </summary>
+  
+  [3 ways of defining functions javascript](https://youtu.be/wE17lgn6WY4)
+</details>
+
+<details>
+  <summary>BAP #13 </summary>
+  
+  [Structure of a function](https://youtu.be/wE17lgn6WY4)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
