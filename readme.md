@@ -89,9 +89,9 @@ Boolean, double not operator, conditional,
 </details>
 
 <details>
-  <summary>BAP #13 </summary>
+  <summary>BAP #11 </summary>
   
-  [Structure of a function]()
+  [Structure of a function](https://youtu.be/aV8BSEX234M)
 </details>
 
 
