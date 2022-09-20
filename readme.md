@@ -94,11 +94,10 @@ Boolean, double not operator, conditional,
   [Structure of a function](https://youtu.be/aV8BSEX234M)
 </details>
 
-
 <details>
-  <summary>BAP #14 </summary>
+  <summary>BAP #12 </summary>
   
-  [Other Types of Function]()
+  [Function Types(part 2)](https://youtu.be/L7MHeFESfQg)
 </details>
 
 ## Authors
