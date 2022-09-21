@@ -100,6 +100,12 @@ Boolean, double not operator, conditional,
   [Function Types(part 2)](https://youtu.be/L7MHeFESfQg)
 </details>
 
+<details>
+  <summary>BAP #13 </summary>
+  
+  [Objects in Javascript](https://youtu.be/FmPAlSfph5w)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
