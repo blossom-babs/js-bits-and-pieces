@@ -106,6 +106,12 @@ Boolean, double not operator, conditional,
   [Objects in Javascript](https://youtu.be/FmPAlSfph5w)
 </details>
 
+<details>
+  <summary>BAP #13 </summary>
+  
+  [Defining Objects in Javascript](https://youtu.be/coJIgaJe4gI)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
