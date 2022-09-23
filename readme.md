@@ -107,7 +107,7 @@ Boolean, double not operator, conditional,
 </details>
 
 <details>
-  <summary>BAP #13 </summary>
+  <summary>BAP #14 </summary>
   
   [Defining Objects in Javascript](https://youtu.be/coJIgaJe4gI)
 </details>
