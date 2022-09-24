@@ -2,7 +2,7 @@
 
 BAPs: Bits and Pieces.
 
-Javascript has lots of quirky sides. I was inspired by [wtfj](https://github.com/denysdovhan/wtfjs#-supporting) to learn more and share about this bits of Javascript. Regardless of your level with javascript, I think these are really good to know javascript concepts.
+Javascript has lots of quirky sides. I was inspired by [wtfj](https://github.com/denysdovhan/wtfjs#-supporting) to learn more and share about these bits of Javascript. Regardless of your level with javascript, I think these are really good to know javascript concepts.
 
 ## To install this on your local machine
 
