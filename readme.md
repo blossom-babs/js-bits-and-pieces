@@ -118,6 +118,12 @@ Boolean, double not operator, conditional,
   [Handy Object Methods](https://youtu.be/409MzPjDotU)
 </details>
 
+<details>
+  <summary>BAP #16 </summary>
+  
+  [strict and loose equals, explicit and implicit conversion](https://youtu.be/U5EBw2GBnOQ)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
