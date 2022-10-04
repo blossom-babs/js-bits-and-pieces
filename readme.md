@@ -124,6 +124,12 @@ Boolean, double not operator, conditional,
   [strict and loose equals, explicit and implicit conversion](https://youtu.be/U5EBw2GBnOQ)
 </details>
 
+<details>
+  <summary>BAP #17 </summary>
+  
+  [Is javascript a compiled or an interpreted language](https://youtu.be/Rwh4z744pck)
+</details>
+
 ## Authors
 
 🌸 **Blossom**

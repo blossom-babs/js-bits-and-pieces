@@ -1,0 +1,1 @@
+// is javascript an interpreted or compiled language?
