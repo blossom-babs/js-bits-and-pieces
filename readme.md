@@ -130,6 +130,12 @@ Boolean, double not operator, conditional,
   [Is javascript a compiled or an interpreted language](https://youtu.be/Rwh4z744pck)
 </details>
 
+<details>
+  <summary>BAP #18 </summary>
+  
+  [Scope](https://youtu.be/h_FPDh2ECCA)
+</details>
+
 ## Authors
 
 🌸 **Blossom**
