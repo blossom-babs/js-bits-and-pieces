@@ -136,6 +136,12 @@ Boolean, double not operator, conditional,
   [Scope](https://youtu.be/h_FPDh2ECCA)
 </details>
 
+<details>
+  <summary>BAP #19 </summary>
+  
+  [Hoisting](https://youtu.be/fCtBPfEPxl0)
+</details>
+
 ## Authors
 
 🌸 **Blossom**

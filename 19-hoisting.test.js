@@ -49,8 +49,32 @@ prior to the execution
 
 // function hoisting
 
-greeting()
+// greeting()
 
-function greeting(){
-  console.log('hello world')
-}
+// const greeting = function(){
+//   console.log('hello world')
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// variable hosting
+
+console.log(firstName)
+
+const firstName = 'Blossom'
